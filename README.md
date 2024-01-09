@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps | Cloud computing**
 
-- 💬 Ask me about **Linux ,Nginx , AWS , CI/CD , Docker , Kubernetes **
+- 💬 Ask me about ** Linux ,Nginx , AWS , CI/CD , Docker , Kubernetes **
 
 - 📫 How to reach me **workahmeedalaa@gmail.com**
 

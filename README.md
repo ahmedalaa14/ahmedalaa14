@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
 <h3 align="center">Software Engineer with good knowledge in software development life cycle SDLC and IT operations , so I extend my knowledge to be a Cloud DevOps Engineer with a strong desire to learn and contribute to the world of DevOps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalaa14&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalaa14" /> </p>
 
 🌱 I’m currently learning DevOps | Cloud computing | Backend.
 

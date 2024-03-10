@@ -12,13 +12,22 @@
 
 📫 How to reach me **workahmeedalaa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmeed-alaa/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin&perline=7" /> </a>
-<a href="https://www.facebook.com/hamody.uwk.3?mibextid=zbwkwl" target="blank"> <img src="https://skillicons.dev/icons?i=facebook&perline=7" /></a>
-<a href="https://instagram.com/ahmmeedalaa" target="blank"> <img src="https://skillicons.dev/icons?i=instgram&perline=7" /></a>
-<a href="https://leetcode.com/ahmedalaa14/"> <img src="https://skillicons.dev/icons?i=leetcode&perline=7" /></a>   
-</p>
+<div align="left">
+  <a href="https://instagram.com/ahmmeedalaa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&perline=7" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmeed-alaa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=7" />
+  </a>
+</div>
+
+#<h3 align="left">Connect with me:</h3>
+#<p align="left">
+#<a href="https://www.linkedin.com/in/ahmeed-alaa/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin&perline=7" /> </a>
+#<a href="https://www.facebook.com/hamody.uwk.3?mibextid=zbwkwl" target="blank"> <img src="https://skillicons.dev/icons?i=facebook&perline=7" /></a>
+#<a href="https://instagram.com/ahmmeedalaa" target="blank"> <img src="https://skillicons.dev/icons?i=instgram&perline=7" /></a>
+#<a href="https://leetcode.com/ahmedalaa14/"> <img src="https://skillicons.dev/icons?i=leetcode&perline=7" /></a>   
+#</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">

@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
-<h3 align="center">Software Engineer with good knowledge in software development life cycle SDLC and IT operations , so I extend my knowledge to be a Cloud DevOps Engineer with a strong desire to learn and contribute to the world of DevOps.</h3>
+<h3 align="center">Software Engineer with good knowledge in software development life cycle SDLC and IT Operations, so I extend my knowledge to be a Cloud DevOps Engineer with a strong desire to learn and contribute to the world of DevOps.</h3>
 
 
 🌱 I’m currently learning DevOps | Cloud computing | Backend.
 
 💬 Ask me about Linux - AWS - CI/CD - Docker - Kubernetes - Ansible.
 
-🤝 I’m looking for an Internship or Part-Time Job.
+🤝 I’m looking for an 'Internship' or 'Part-Time Job'.
 
 ⚡ OCI Certified.
 

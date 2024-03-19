@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmedalaa14)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalaa14&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalaa14" /> </p>
 <h3 align="center">Software Engineer with a good knowledge in Software Development Life Cycle and IT Operations, so I extend my knowledge to be a Cloud DevOps Engineer with a strong desire to learn and contribute to the world of DevOps.</h3>
 
 

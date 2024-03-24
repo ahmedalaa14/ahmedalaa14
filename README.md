@@ -7,7 +7,7 @@
 
 💬 Ask me about `Linux` - `AWS` - `CI/CD` - `Docker` - `Kubernetes` - `Ansible`.
 
-🤝 I’m looking for an `Internship` or a `Part-Time Job`.
+💼 Working on exciting projects that involve automating infrastructure, optimizing deployments, and ensuring seamless operations.
 
 ⚡ `OCI` Certified.
 

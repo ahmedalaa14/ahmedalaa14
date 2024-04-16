@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,py,cpp,java,html,css,js,nodejs,php,linux,redhat,gitlab,git,github,nginx,obsidian,mysql,mongodb,kubernetes,docker,jenkins,githubactions,ansible,terraform,prometheus &perline=11" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,py,cpp,java,html,css,js,nodejs,django,linux,redhat,gitlab,git,github,nginx,obsidian,mysql,mongodb,kubernetes,docker,jenkins,githubactions,ansible,terraform,prometheus &perline=11" />
   </a>
 </p>
 

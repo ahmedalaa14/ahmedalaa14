@@ -5,8 +5,6 @@
 
 -  I’m currently learning **DevOps** | **Cloud computing** | **Backend**.
 
--  Ask me about **Linux** - **AWS** - **CI/CD** - **Docker** - **Kubernetes** - **Ansible**.
-
 -  Working on **Exciting Projects that involve automating infrastructure, optimizing deployments, and ensuring seamless operations**.
 
 -  **OCI** Certified.

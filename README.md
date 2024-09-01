@@ -4,11 +4,9 @@
 
 
 -  I’m currently learning **DevOps** | **Cloud computing** | **Backend**.
-
+-  My Experience : IT Intern @ **CIB** - Software Engineer Intern @  **Manara** DevOps Engineer Intern @ **Souhoola** - DevOps Engineer @ **Banque Misr**
 -  Working on **Exciting Projects that involve automating infrastructure, optimizing deployments, and ensuring seamless operations**.
-
 -  **OCI** Certified.
-
 -  How to reach me **workahmeedalaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

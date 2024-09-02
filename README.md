@@ -2,14 +2,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalaa14&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalaa14" /> </p>
 <h3 align="center">I'm a passionate Junior DevOps Engineer | Software Engineer </h3>
 
-- 🚀 **Currently Exploring:** DevOps | Cloud Computing | Backend Development
+- 🚀 **Currently Exploring:** DevOps | Cloud Computing | Backend Development.
 - 💼 **Professional Experience:**
   - IT Intern @ **CIB**
   - Software Engineer Intern @ **Manara**
   - DevOps Engineer Intern @ **Souhoola**
   - DevOps Engineer @ **Banque Misr**
 - 🔧 **Focus:** Automating infrastructure, optimizing deployments, and ensuring seamless operations.
-- 🎓 **Certifications:** Oracle Cloud Infrastructure (OCI) Certified
+- 🎓 **Certifications:** Oracle Cloud Infrastructure (OCI) Certified.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

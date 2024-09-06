@@ -7,7 +7,7 @@
   - IT Intern @ **CIB**
   - Software Engineer Intern @ **Manara**
   - DevOps Engineer Intern @ **Souhoola**
-  - DevOps Engineer Intern @ **Banque Misr**
+  - DevOps Engineer @ **Banque Misr**
 - 🔧 **Focus:** Automating infrastructure, optimizing deployments, and ensuring seamless operations.
 - 🎓 **Certifications:** Oracle Cloud Infrastructure (OCI) Certified.
 

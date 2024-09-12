@@ -10,7 +10,7 @@
   - DevOps Engineer Intern @ **Banque Misr**
 - 🔧 **Focus:** Automating infrastructure, optimizing deployments, and ensuring seamless operations.
 - 🎓 **Certifications:** Oracle Cloud Infrastructure (OCI) Certified.
-
+- 📫 Get in Touch: Feel free to contact **workahmeedalaa@gmail.com** for collaboration or opportunities!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmeed-alaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmeed-alaa/" height="30" width="40" /></a>

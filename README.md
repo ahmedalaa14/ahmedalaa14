@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ahmed Alaa</h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedalaa14&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalaa14" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+DevOps+Engineer;Software+Developer;Driven+by+Automation+and+Code!&font=Dancing+Script&color=%237E3ACE&size=20&center=true&width=600&height=100&duration=4000&pause=1000&theme=dark" alt="Ahmed Alaa - Bio"> </p>
+  <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalaa14&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalaa14" /> </p>
+<h3 align="center">I'm a passionate Junior DevOps Engineer | Software Engineer  </h3>
 
 - 🚀 **Currently Exploring:** DevOps | Cloud Computing | Backend Development.
 - 💼 **Professional Experience:**

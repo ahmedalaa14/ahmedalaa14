@@ -9,7 +9,8 @@
   - DevOps Engineer Intern @ **Souhoola**
   - DevOps Engineer Intern @ **Banque Misr**
 - 🔧 **Focus:** Automating infrastructure, optimizing deployments, and ensuring seamless operations.
-- 🎓 **Certifications:** Oracle Cloud Infrastructure (OCI) Certified.
+- 🎓 **Certifications:**
+  - **Oracle Cloud Infrastructure** Certified.
 - 📫 **Get in Touch:** Feel free to contact **workahmeedalaa@gmail.com** for collaboration or opportunities!
 <h3 align="left">Connect with me:</h3>
 <p align="left">

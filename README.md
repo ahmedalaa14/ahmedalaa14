@@ -1,6 +1,6 @@
   <h1 align="center"> Hey, it's Ahmed Alaa! 👋🏻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalaa14&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalaa14" /> </p>
-<h3 align="center"> passionate Junior DevOps Engineer | Software Engineer  </h3>
+<h3 align="center"> Passionate Junior DevOps Engineer | Software Engineer  </h3>
 
 - 🚀 **Currently Exploring:** DevOps | Cloud Computing | Backend Development.
 - 💼 **Professional Experience:**

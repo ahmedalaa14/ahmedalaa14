@@ -4,10 +4,10 @@
 
 - 🚀 **Currently Exploring:** DevOps | Cloud Computing | Backend Development.
 - 💼 **Professional Experience:**
-  - IT Intern @ **CIB**
-  - Software Engineer Intern @ **Manara**
-  - DevOps Engineer Intern @ **Souhoola**
-  - DevOps Engineer Intern @ **Banque Misr**
+   - DevOps Engineer Intern @ **Banque Misr**
+   - DevOps Engineer Intern @ **Souhoola**
+   - Software Engineer Intern @ **Manara**
+   -  IT Intern @ **CIB**
 - 🔧 **Focus:** Automating infrastructure, optimizing deployments, and ensuring seamless operations.
 - 🎓 **Certifications:**
   - **Oracle Cloud Infrastructure** Certified.

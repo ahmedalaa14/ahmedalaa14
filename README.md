@@ -9,7 +9,7 @@
    - DevOps Engineer Intern @ **Souhoola**
    - Software Engineer Intern @ **Manara**
    -  IT Intern @ **CIB**
-- 🔧 **Focus:** Automating infrastructure, optimizing deployments, and ensuring seamless operations.
+- 🔧 **Focus:** **Automating infrastructure, optimizing deployments, and ensuring seamless operations**.
 - 🎓 **Certifications:**
   - **Oracle Cloud Infrastructure** Certified.
 - 📫 **Get in Touch:** Feel free to contact **workahmeedalaa@gmail.com** for collaboration or opportunities!

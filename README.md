@@ -11,7 +11,8 @@
    -  IT Intern @ **CIB**
 - 🔧 **Focus:** **Automating infrastructure, optimizing deployments, and ensuring seamless operations**.
 - 🎓 **Certifications:**
-  - **Oracle Cloud Infrastructure** Certified.
+  - **AWS Certified Cloud Practitioner**.
+  - **Oracle Cloud Infrastructure**.
 - 📫 **Get in Touch:** Feel free to contact **workahmeedalaa@gmail.com** for collaboration or opportunities!
 <h3 align="left">Connect with me:</h3>
 <p align="left">

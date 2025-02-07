@@ -4,6 +4,7 @@
 
 - 🚀 **Currently Exploring:** DevOps | Cloud Computing | Backend Development.
 - 💼 **Professional Experience:**
+   - Software Engineer @ **DataCurve**
    - DevOps Engineer Intern @ **Banque Misr**
    - DevOps Engineer Intern @ **Souhoola**
    - Software Engineer Intern @ **Manara**

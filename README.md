@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,py,cpp,js,nodejs,go,linux,redhat,gitlab,git,github,nginx,obsidian,mysql,mongodb,postgres,docker,kubernetes,openshift,jenkins,githubactions,ansible,terraform,prometheus,grafana &perline=11" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,py,js,nodejs,go,linux,redhat,gitlab,git,github,nginx,obsidian,mysql,mongodb,postgres,docker,kubernetes,openshift,jenkins,githubactions,ansible,terraform,prometheus,grafana &perline=11" />
   </a>
 </p>
 
